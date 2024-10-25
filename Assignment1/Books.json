@@ -1,0 +1,27 @@
+[
+  {
+    "BookId": 1,
+    "BookName": "Harry Potter",
+    "AuthorName": "JK Rowling"
+  },
+  {
+    "BookId": 2,
+    "BookName": "Making India Awesome",
+    "AuthorName": "Chetan Bhagat  "
+  },
+  {
+    "BookId": 3,
+    "BookName": "A Million Mutinies Now ",
+    "AuthorName": "V.S. Naipaul"
+  },
+  {
+    "BookId": 4,
+    "BookName": "A Brush with Life ",
+    "AuthorName": "Satish Gujral"
+  },
+  {
+    "BookId": 5,
+    "BookName": "A River Sutra",
+    "AuthorName": "Gita Mehta"
+  }
+]

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Book>
+		<BookId>1</BookId>
+	<BookName>Harry Potter</BookName>
+		<AuthorName>JK Rowling</AuthorName>
+	</Book>
+	<Book>
+		<BookId>2</BookId>
+		<BookName>Making India Awesome</BookName>
+		<AuthorName>Chetan Bhagat  </AuthorName>
+	</Book>
+	<Book><BookId>3</BookId>
+	<BookName>A Million Mutinies Now </BookName>
+		<AuthorName>V.S. Naipaul</AuthorName>
+	</Book>
+	<Book>
+		<BookId>4</BookId>
+		<BookName>A Brush with Life </BookName>
+		<AuthorName>Satish Gujral</AuthorName>
+	</Book>
+	<Book><BookId>5</BookId>
+	<BookName>A River Sutra</BookName>
+		<AuthorName>Gita Mehta</AuthorName>
+	</Book>
+</ArrayOfBook>
